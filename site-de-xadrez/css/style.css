@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus&display=swap');
+
+* {
+    font-family: 'Gentium Book Plus';
+}
+
+html {
+    background-color: #360075;
+}
+
+h1 {
+    font-size: 25px;
+    line-height: 3;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+h2, p {
+    font-size: 20px;
+    line-height: 2;
+    text-align: center;
+    letter-spacing: 1px;
+}
+
+h2, p {
+    color: black;
+}
+
+h1 {
+    margin: o;
+    padding: 20px 0;
+    color: #360075;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #ff5100;
+    padding: 0 20px 20px 20px;
+    border-style: inherit;
+  }
